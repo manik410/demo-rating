@@ -1,0 +1,8 @@
+.mainBox{
+    padding: 120px 100px;
+    background-color: #F5F3FC;
+    width:84%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
